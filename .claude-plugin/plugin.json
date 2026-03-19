@@ -1,0 +1,10 @@
+{
+  "name": "self-improvement",
+  "description": "Run structured self-improvement cycles on any AI agent system — evaluate performance, identify improvement vectors, propose changes, test in sandbox, and deploy with rollback.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Chase Hughes"
+  },
+  "repository": "https://github.com/chasehughes/self-improvement",
+  "license": "MIT"
+}

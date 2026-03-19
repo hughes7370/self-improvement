@@ -1,0 +1,20 @@
+[
+  {
+    "id": "test-001",
+    "input": "Replace this with a real task your agent handles",
+    "expected": "Replace this with the expected output or behavior",
+    "tags": ["category-a"]
+  },
+  {
+    "id": "test-002",
+    "input": "Include edge cases that have caused failures in the past",
+    "expected": "The correct handling of the edge case",
+    "tags": ["edge-case", "category-b"]
+  },
+  {
+    "id": "test-003",
+    "input": "Include cases that test recent reflections and lessons",
+    "expected": "Behavior that demonstrates the lesson was learned",
+    "tags": ["regression", "category-a"]
+  }
+]
