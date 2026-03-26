@@ -7,14 +7,14 @@ A framework-agnostic protocol for running structured self-improvement cycles on 
 Clone the repo, then install for your platform:
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/hughes7370/self-improvement.git
 cd self-improvement
 ```
 
 ### Claude Code (plugin)
 
 ```bash
-claude plugin install <repo-url>
+claude plugin install https://github.com/hughes7370/self-improvement
 ```
 
 Or manually:
